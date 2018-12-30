@@ -41,5 +41,5 @@ The server will run the application on your browser. Login into metamask and con
 #### 6. Import Account
 After connecting with Ganache get private key from ganache accounts (click on key icon) and put this in metamask in the import account private key and refresh the page.
 
-#### 7. Import Account
+#### 7. Caste your vote
 Once the account is imported select contestant and caste your vote and for new vote import new account follow step 6
