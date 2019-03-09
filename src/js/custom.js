@@ -22,7 +22,7 @@ function loadChart() {
       yAxis: {
           min: 0,
           title: {
-              text: 'contestants'
+              text: 'Contestants'
           }
       },
       legend: {
